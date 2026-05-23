@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/Guilherme/Downloads/opengl_gameboy_revisado/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGLFW_DLL  -g -Wall -Wextra -pedantic -std=c++17 -o CMakeFiles\\gameboy_parallax.dir\\src\\main.cpp.obj -c C:\\Users\\Guilherme\\Downloads\\opengl_gameboy_revisado\\src\\main.cpp",
+  "file": "C:/Users/Guilherme/Downloads/opengl_gameboy_revisado/src/main.cpp"
+}
+]

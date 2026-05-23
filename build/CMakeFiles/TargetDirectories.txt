@@ -1,0 +1,3 @@
+C:/Users/Guilherme/Downloads/opengl_gameboy_revisado/build/CMakeFiles/gameboy_parallax.dir
+C:/Users/Guilherme/Downloads/opengl_gameboy_revisado/build/CMakeFiles/edit_cache.dir
+C:/Users/Guilherme/Downloads/opengl_gameboy_revisado/build/CMakeFiles/rebuild_cache.dir
