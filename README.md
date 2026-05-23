@@ -1,3 +1,5 @@
+# Integrantes grupo: Guilherme Rosa, Fabier Brumimg da Silva, Mateus de Moule.
+
 # Game Boy Parallax - OpenGL C++
 
 Jogo 2D em C++ com OpenGL, GLFW e GLEW.
